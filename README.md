@@ -1,11 +1,11 @@
 # Customer Churn Analysis
 
-## 📊 Project Overview
+## Project Overview
 
 Customer churn analysis project focused on understanding customer retention patterns and identifying factors associated with customer churn.
 The analysis was performed using **Excel and Power BI** on a dataset containing **10,000 customer records**.
 
-## 🎯 Business Objective
+## Business Objective
 
 - Measure the overall customer churn rate
 - Compare churn across different customer segments
@@ -13,7 +13,7 @@ The analysis was performed using **Excel and Power BI** on a dataset containing 
 - Identify areas where customer retention can be improved
 - Provide data-driven insights for retention strategies
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Microsoft Excel**
   - Data Cleaning
@@ -27,7 +27,7 @@ The analysis was performed using **Excel and Power BI** on a dataset containing 
   - Interactive Dashboard
   - Slicers & Filters
 
-## 📌 Key KPIs
+## Key KPIs
 
 | KPI | Value |
 |---|---:|
@@ -36,7 +36,7 @@ The analysis was performed using **Excel and Power BI** on a dataset containing 
 | Overall Churn Rate | 26.70% |
 | Average Tenure | 35.96 Months |
 
-## 📈 Dashboard Analysis
+## Dashboard Analysis
 
 ### Customer Overview
 
@@ -60,7 +60,7 @@ The second dashboard analyzes:
 
 ![Customer Retention Analysis](Images/Customer Retention Analysis.png)
 
-## 🔍 Key Insights
+## Key Insights
 
 - Overall customer churn rate was **26.70%**.
 - Churn patterns were analyzed across contract type, tenure, payment method and customer demographics.
@@ -68,7 +68,7 @@ The second dashboard analyzes:
 - Average tenure was also relatively similar between churned and retained customers.
 - The analysis suggests that customer retention should be evaluated using multiple behavioral and demographic factors rather than relying on a single variable.
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Monitor customer segments with comparatively higher churn rates.
 - Develop targeted retention campaigns for at-risk customers.
