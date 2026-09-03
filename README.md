@@ -47,7 +47,7 @@ The first dashboard provides an overview of customer churn across:
 - Payment methods
 - Overall churn status
 
-![Customer Overview](Images/Customer Overview.png)
+![Customer Overview](Images/Customer_Overview.png)
 
 ### Customer Retention Analysis
 
