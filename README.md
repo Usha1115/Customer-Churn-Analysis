@@ -58,7 +58,7 @@ The second dashboard analyzes:
 - Average total charges
 - Churn rate among senior and non-senior customers
 
-![Customer Retention Analysis](Images/Customer Retention Analysis.png)
+![Customer Retention Analysis](Images/Customer_Retention_Analysis.png)
 
 ## Key Insights
 
